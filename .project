@@ -1,8 +1,0 @@
-
-Public Class Tester 
-{
-	Public Static Void main (String args[])
-	{
-	system.out.println("From:William Smith")
-	}
-}
